@@ -4,7 +4,7 @@ layout: default
 <div class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h2 itemprop="name" class="post-title">{{ page.title }}</h2>
+    <h1 itemprop="name" class="post-title">{{ page.title }}</h1>
     <meta itemprop="keywords" content="{{ page.tags | join: ',' }}" />
     <p class="post-meta">
     {{ site.locales[site.default_locale].PostedInCategories }}
@@ -17,6 +17,9 @@ layout: default
     <a href="{{ site.baseurl }}/tags/#{{ tag }}" title="{{ tag }}">{{ tag }}</a>{% unless page.tags.last == tag %}, {% endunless %}
     {% endfor %}
     {% endif %}
+    <time itemprop="datePublished" datetime="{{ page.date | date: '%Y-%m-%d' }}">
+    {{ site.locales[site.default_locale].PostDate }}{{ page.date | date: "%b %-d, %Y" }}
+    </time>
     </p>
   </header>
 
@@ -29,4 +32,3 @@ layout: default
 
 {% include page_pagination.html%}
 {% include comments.html %}
-
