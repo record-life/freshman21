@@ -10,12 +10,11 @@ url: "https://record-life.github.io" # the base hostname & protocol for your sit
 locale: en_US
 
 ### Personal info and site tools info:
-twitter_username: record-life
-github_username:  record-life
+
 disqus_shortname: record-life
 favicon:     "/images/favicon.ico"
 aboutme: 노력과 욕심, 부자가 되려면 그에 걸맞는 노력을 해야 한다. # these are shown on aboutme-sidebar.
-aboutme_photo: https://image.shutterstock.com/image-photo/young-asian-couple-riding-convertible-260nw-622422614.jpg# your photo.
+aboutme_photo: https://cdn.pixabay.com/photo/2018/07/27/10/17/don-3565683_960_720.jpg# your photo.
 google_analytics_key:  # put YOUR key here to enable tracking! (blank to disable)
 
 
