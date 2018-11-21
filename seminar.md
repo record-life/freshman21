@@ -11,7 +11,7 @@ permalink: /seminar
 <br>
 <img class="image" src="https://github.com/record-life/record-life.github.io/blob/master/images/salesup20180809113106.png?raw=true" alt=""/> 
   <br> <br>
-</center>
+</center> 
 <center>
   <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc9TPSDUIcvo6RKSQlkR_BbHJwjkKLyARz5UKrW2iRhy4QCJg/viewform?embedded=true" width="640" height="1497" frameborder="0" marginheight="0" marginwidth="0">로드 중...</iframe>
 </center>
