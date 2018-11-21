@@ -30,20 +30,20 @@ locales:
       Aboutme: "세일즈멘토, 킹메이커"
       Archives: "Archives"
       Blogroll: "Blogroll"
-      Categories: "Categories"
-      Copyright_Notice: "Copyright Notice"
-      Recent_Posts: "Recent Posts"
+      Categories: "카테고리"
+      Copyright_Notice: "저작권"
+      Recent_Posts: "최근 소식"
       Tags: "Tags"
       Previous: "Older"
       Next: "Newer"
       PostedInCategories: "Posted in"
       Taggedwith: "and tagged"
       PostDate: "on "
-      Google_search: "Site Search"
+      Google_search: "검색"
       Home: "Home"
-      About: "About"
+      About: "소개"
       Guestbook: "Guestbook"
-      Subscribe: "Subscribe"
+      Subscribe: "구독"
     cn:
       Aboutme: "关于我"
       Archives: "存档"
@@ -174,12 +174,12 @@ locales:
 ### your Blogroll info, only name can shown on the page.
 
 Blogroll:
-      - name: Freshman
-        href: http://yulijia.net/freshman
-        title: Another Jekyll blog theme
-      - name: author's website
-        href: http://yulijia.net/
-        title: Lijia Yu's website
+      - name: kingmaker
+        href: https://record-life.github.io/
+        title: 一期一會
+      - name: 킹메이커, 一期一會
+        href: https://record-life.github.io/
+        title: 一期一會
 
 
 ### Build settings
