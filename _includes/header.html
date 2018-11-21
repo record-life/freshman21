@@ -16,8 +16,21 @@
       <div class="trigger">
         {% for page in site.pages %}
         {% if page.title %}
-      <p>fgdfgdfgdfgd</p> 
-        {% endif %}
+        
+        
+        
+        
+        
+        
+    
+                   <a href="{{ p.url | prepend: site.baseurl }}"><span class="glyphicon {{ p.icon }}"></span> {{ p.title }}</a>
+        
+        
+        
+        
+        
+        
+        {% endif %}      
         {% endfor %}
       </div>
     </nav>
