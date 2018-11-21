@@ -5,7 +5,7 @@ permalink: /seminar
 ---
 
 <center>
-<h2>세일즈 엑기스만 뽑았다! 소수정예 맞춤형 교육!</h2>
+<h3>세일즈 엑기스만 뽑았다! 소수정예 맞춤형 교육!</h3>
 <br>
 <img class="image" src="https://github.com/record-life/record-life.github.io/blob/master/images/salesasp_20180606_125137.jpg?raw=true" alt=""/> 
 <br>
