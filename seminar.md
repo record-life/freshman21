@@ -1,6 +1,6 @@
 ---
 layout: page
-title: guestbook
+title: 소수정예 맞춤형 교육
 permalink: /seminar
 ---
 
