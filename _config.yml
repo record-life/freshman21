@@ -1,22 +1,22 @@
 ### Site info:
-title: Freshman21
-tagline: Another Jekyll theme, Freshman twenty-first
-author: Lijia Yu
-email: yu@lijiayu.net
-description: "Freshman21 is a Jekyll blog theme." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
-keywords: "Jekyll, theme, Freshman21"
+title: 一期一會
+tagline: 킹메이커가 쓰는 부의 기록
+author: 킹메이커
+email: kingmaker@leevra.com
+description: "킹메이커가 쓰는 부의 기록" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+keywords: "킹메이커,kingmaker"
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://record-life.github.io" # the base hostname & protocol for your site
 locale: en_US
 
 ### Personal info and site tools info:
-twitter_username: yulijia
-github_username:  yulijia
-disqus_shortname: freshman21
+twitter_username: record-life
+github_username:  record-life
+disqus_shortname: record-life
 favicon:     "/images/favicon.ico"
-aboutme: Hi, this is Lijia Yu. I made the Freshman21 theme. Please enjoy it. # these are shown on aboutme-sidebar.
+aboutme: 노력과 욕심, 부자가 되려면 그에 걸맞는 노력을 해야 한다. # these are shown on aboutme-sidebar.
 aboutme_photo: https://i.imgur.com/Mdc4szJl.jpg# your photo.
-google_analytics_key: UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key:  # put YOUR key here to enable tracking! (blank to disable)
 
 
 ### Site setting:
