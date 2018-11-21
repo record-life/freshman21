@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archives
+title: guestbook
 permalink: /seminar
 ---
 
