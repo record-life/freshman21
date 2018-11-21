@@ -12,6 +12,10 @@ permalink: /seminar
 <img class="image" src="https://github.com/record-life/record-life.github.io/blob/master/images/salesup20180809113106.png?raw=true" alt=""/> 
   <br> <br>
 </center> 
-<center>
-  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc9TPSDUIcvo6RKSQlkR_BbHJwjkKLyARz5UKrW2iRhy4QCJg/viewform?embedded=true" width="640" height="1497" frameborder="0" marginheight="0" marginwidth="0">로드 중...</iframe>
-</center>
+
+<div style="width:100%;position:relative;overflow-x:hidden;overflow-y:scroll;-webkit-overflow-scrolling:touch;">
+<!-- 지문 -->
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc9TPSDUIcvo6RKSQlkR_BbHJwjkKLyARz5UKrW2iRhy4QCJg/viewform?embedded=true" width="100%" height="1497" frameborder="0" marginheight="0" marginwidth="0">로드 중...</iframe>
+
+ </div>
