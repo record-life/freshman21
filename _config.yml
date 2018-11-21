@@ -27,7 +27,7 @@ default_locale: "en" # blog sidebar language set, only include: English (en), Ch
 
 locales:
     en:
-      Aboutme: "프로필"
+      Aboutme: "세일즈멘토, 킹메이커"
       Archives: "Archives"
       Blogroll: "Blogroll"
       Categories: "Categories"
