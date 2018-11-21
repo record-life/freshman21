@@ -15,7 +15,7 @@ twitter_username: record-life
 github_username:  record-life
 disqus_shortname: record-life
 favicon:     "/images/favicon.ico"
-aboutme: 노력과 욕심, 부자가 되려면 그에 걸맞는 노력을 해야 한다. # these are shown on aboutme-sidebar.
+aboutme: 노력과 욕심, <br><br>부자가 되려면 <br><br>그에 걸맞는 노력을 해야 한다. # these are shown on aboutme-sidebar.
 aboutme_photo: https://1.bp.blogspot.com/-M5fr7qCr1_s/W_T-ynh7kEI/AAAAAAAAA1Q/DapD3vfofNUKopKK2GDhIeT7idbFXqlHwCLcBGAs/s320/3462346234.jpg# your photo.
 google_analytics_key:  # put YOUR key here to enable tracking! (blank to disable)
 
