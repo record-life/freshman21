@@ -17,9 +17,6 @@ layout: default
     <a href="{{ site.baseurl }}/tags/#{{ tag }}" title="{{ tag }}">{{ tag }}</a>{% unless page.tags.last == tag %}, {% endunless %}
     {% endfor %}
     {% endif %}
-    <time itemprop="datePublished" datetime="{{ page.date | date: '%Y-%m-%d' }}">
-    {{ site.locales[site.default_locale].PostDate }}{{ page.date | date: "%b %-d, %Y" }}
-    </time>
     </p>
   </header>
 
