@@ -13,5 +13,5 @@ permalink: /seminar
   <br>
 </center>
 <center>
-  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc9TPSDUIcvo6RKSQlkR_BbHJwjkKLyARz5UKrW2iRhy4QCJg/viewform?embedded=true" width="320" height="1497" frameborder="0" marginheight="0" marginwidth="0">로드 중...</iframe>
+  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc9TPSDUIcvo6RKSQlkR_BbHJwjkKLyARz5UKrW2iRhy4QCJg/viewform?embedded=true" width="640" height="1497" frameborder="0" marginheight="0" marginwidth="0">로드 중...</iframe>
 </center>
