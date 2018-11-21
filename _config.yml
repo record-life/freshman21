@@ -27,7 +27,7 @@ default_locale: "en" # blog sidebar language set, only include: English (en), Ch
 
 locales:
     en:
-      Aboutme: "About Me"
+      Aboutme: "프로필"
       Archives: "Archives"
       Blogroll: "Blogroll"
       Categories: "Categories"
